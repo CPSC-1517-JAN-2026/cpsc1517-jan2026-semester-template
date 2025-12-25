@@ -1,21 +1,20 @@
 # CPSC 1517 – Semester Exercises (Jan 2026)
 
-This repository is the **official template** for all exercises, labs,
-and take-home work in CPSC 1517 (January 2026).
-
-This repository is generated automatically using GitHub Classroom.
+This repository is created automatically using GitHub Classroom and will be used for **all take-home exercises** in CPSC 1517.
 
 ## Submission Rules
 - All work must be committed to GitHub
-- Frequent commits are expected to demonstrate incremental development
+- Frequent commits are expected
 - File submissions to Brightspace are NOT accepted
-- Do not rename or delete folders provided in this repository
-- Do not create additional repositories for this course
+- Do NOT rename, delete, or move the provided folders
+- Do NOT create additional repositories for this course
 
 ## Repository Structure
-- `/Exercises` – Weekly exercises
-- `/Labs` – Scheduled lab work
-- `/TakeHome` – Take-home exercises
+Work must be completed **only inside the folders below**:
 
-## Academic Integrity
-Each student must work only in their own repository created via GitHub Classroom.
+CPSC1517 Exercise 1/  
+CPSC1517 Exercise 2/  
+CPSC1517 Exercise 3/  
+CPSC1517 Exercise 4/
+
+Place all source code and files for each exercise inside its corresponding folder.
